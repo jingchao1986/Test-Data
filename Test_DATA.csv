@@ -1,0 +1,101 @@
+id,first_name,last_name,email,gender,ip_address,graduate_degree,date_time,state,lat,lon,city,negative,positive,int,decimal,int_with_null
+1,Ardelle,Flatte,aflatte0@hexun.com,Agender,45.137.110.14,true,9/24/2021,,23.276324,113.57676,Zhenlong,-156,356,-457,-993.1,-964
+2,Mayer,Bythway,mbythway1@e-recht24.de,Agender,28.11.210.159,false,11/2/2021,,39.4305733,21.6627892,Mouzáki,-334,750,419,49.22,-932
+3,Bourke,Marvell,bmarvell2@smh.com.au,Polygender,160.192.28.244,true,6/8/2021,,-6.3623,105.9128,Sorodot,-109,339,893,-260.37,-590
+4,Abrahan,Costan,acostan3@princeton.edu,Bigender,204.167.42.0,false,2/1/2021,,28.168408,120.482198,Qiaotou,-475,736,459,309.26,-892
+5,Henrieta,Snalum,hsnalum4@bing.com,Female,30.164.10.253,true,9/30/2021,,-25.4648258,-57.0421483,Piribebuy,-163,826,-566,448.8,-263
+6,Sybila,Liddington,sliddington5@xrea.com,Male,83.237.247.175,true,6/27/2021,,27.5989477,68.627038,Pīr jo Goth,-171,792,276,238.79,979
+7,Gena,Willbraham,gwillbraham6@ft.com,Genderfluid,244.158.248.73,false,11/11/2020,,-0.031303,110.120499,Tajan,-966,198,992,-899.61,389
+8,Bertrand,Rattry,brattry7@edublogs.org,Agender,92.145.49.149,false,7/13/2021,,39.500179,118.874552,Daliuhang,-499,90,-115,747.02,505
+9,Britni,McRoberts,bmcroberts8@google.co.uk,Male,60.19.46.28,true,2/10/2021,,14.6074523,121.1136216,Cortes,-405,658,-224,779.18,167
+10,Foster,Sitford,fsitford9@domainmarket.com,Genderfluid,168.193.146.218,false,10/11/2021,,43.525311,125.664662,Shuangyang,-126,732,-384,906.67,-892
+11,Michel,Strood,mstrooda@dyndns.org,Non-binary,32.108.112.197,true,9/17/2021,Örebro,59.2416497,14.4338249,Karlskoga,-95,653,192,-160.09,31
+12,Christalle,Guirard,cguirardb@disqus.com,Polygender,49.174.172.5,true,5/23/2021,,-19.7667781,-43.0343237,Nova Era,-795,948,204,-17.45,-923
+13,Henrik,Chander,hchanderc@yahoo.co.jp,Polygender,20.227.124.144,true,8/26/2021,,-7.7888522,114.1914951,Situbondo,-176,690,389,592.2,-209
+14,Gaile,Hoggetts,ghoggettsd@bluehost.com,Bigender,138.246.69.153,false,12/16/2020,,8.9721547,37.8618422,Hāgere Hiywet,-715,956,-488,-345.93,47
+15,Edvard,Ipplett,eipplette@apache.org,Female,177.213.110.235,false,5/23/2021,,55.2195122,75.9815939,Yukhnov,-18,422,424,491.04,
+16,Dalis,Reef,dreeff@elpais.com,Bigender,163.144.222.73,true,10/20/2021,,42.90835,25.2182047,Gabrovo,-839,928,-291,-490.51,-529
+17,Yasmeen,Lackinton,ylackintong@de.vu,Male,169.92.242.199,false,2/26/2021,,49.0338988,17.3406456,Polešovice,-843,9,-574,-427.06,
+18,Jarrid,Cutmore,jcutmoreh@amazon.co.uk,Genderqueer,99.24.225.213,true,12/23/2020,,54.9479093,83.1831386,Baryshevo,-962,419,112,-243.68,806
+19,Olag,Bradborne,obradbornei@senate.gov,Female,219.247.33.52,true,1/10/2021,,30.411429,118.390218,Zengjia,-660,700,53,-737.53,482
+20,Chickie,Gallo,cgalloj@odnoklassniki.ru,Female,194.36.52.105,true,5/30/2021,,42.611806,-71.3329476,Fenshui,-991,448,928,493.96,
+21,Ange,Hadcroft,ahadcroftk@fc2.com,Non-binary,235.233.9.34,false,8/15/2021,,25.33992,119.148479,Beigao,-664,691,793,-400.08,
+22,Hedda,Swane,hswanel@washingtonpost.com,Polygender,10.2.233.6,true,12/30/2020,,13.0883907,-85.9993997,Jinotega,-668,527,894,-127.68,289
+23,Ediva,Southerden,esoutherdenm@usda.gov,Agender,197.245.220.213,false,9/20/2021,,40.2201203,23.6688433,Níkiti,-638,903,310,-89.39,-218
+24,Galen,Decent,gdecentn@umn.edu,Non-binary,26.124.185.177,false,5/6/2021,,31.8742348,10.9750484,Nālūt,-670,506,897,827.74,893
+25,Rivalee,Pochon,rpochono@moonfruit.com,Genderfluid,25.87.144.163,true,9/8/2021,,31.282537,120.819425,Xitan,-95,494,703,198.96,
+26,Jordain,Every,jeveryp@pen.io,Bigender,145.227.12.130,false,1/28/2021,,34.26645,108.960747,Xinchengzi,-255,382,-617,-55.93,-532
+27,Berty,Hails,bhailsq@cnet.com,Agender,129.148.105.149,false,11/21/2020,,31.121239,121.370354,Xinzhuang,-344,905,-577,791.77,
+28,Evelina,Kiddle,ekiddler@umich.edu,Male,228.72.206.86,false,4/18/2021,,66.000926,24.3895975,Tornio,-953,829,46,107.97,-23
+29,Thomasa,Easson,teassons@mysql.com,Agender,226.25.255.236,false,6/4/2021,,52.018944,47.8180515,Dalakovo,-878,175,-244,881.97,-416
+30,Jessalyn,Faires,jfairest@cafepress.com,Bigender,190.217.66.151,false,5/1/2021,,45.4885295,41.1600688,Novoaleksandrovsk,-221,6,-238,413.24,968
+31,Orsa,Mulvey,omulveyu@dedecms.com,Genderfluid,214.52.20.95,true,8/17/2021,,45.212088,130.478187,Mashan,-389,539,-343,656.18,992
+32,Tades,Moxstead,tmoxsteadv@facebook.com,Bigender,41.132.87.180,true,12/16/2020,,-10.6527113,123.2307067,Olafulihaa,-793,924,-408,894.78,131
+33,Janet,Hulstrom,jhulstromw@oakley.com,Genderfluid,145.81.84.159,false,12/7/2020,,17.0633593,107.0155599,Hồ Xá,-856,180,-647,-415.41,-593
+34,Dixie,Kirvell,dkirvellx@ebay.com,Polygender,64.123.64.124,true,1/2/2021,,5.1227373,9.9520961,Melong,-412,15,-560,-710.16,473
+35,Benn,Cacacie,bcacaciey@imdb.com,Male,7.43.110.37,true,12/19/2020,,13.1956813,108.6877976,Phú Túc,-475,368,627,-624.49,205
+36,Donal,Britten,dbrittenz@google.co.uk,Non-binary,140.225.46.50,true,4/30/2021,,44.874,20.6475673,Pančevo,-772,833,-808,-482.58,157
+37,Raoul,Brittain,rbrittain10@tinyurl.com,Genderfluid,80.150.54.97,true,8/9/2021,,40.767421,73.3030715,Uzgen,-7,668,356,-389.47,-850
+38,Coop,Mora,cmora11@examiner.com,Male,229.253.126.46,true,4/7/2021,Bretagne,47.9434065,-1.235807,Rennes,-877,144,855,-366.38,453
+39,Bartholemy,Bentinck,bbentinck12@naver.com,Agender,66.108.106.156,false,8/26/2021,,-6.9424923,111.5200007,Bogorejo,-33,478,-782,-265.01,-963
+40,Beulah,Tevlin,btevlin13@geocities.jp,Genderqueer,27.37.158.220,false,7/7/2021,,42.9314238,41.1062184,Gulrip’shi,-80,42,-646,669.22,-848
+41,Daniel,Maleney,dmaleney14@linkedin.com,Non-binary,105.99.242.148,false,6/24/2021,,0.9996757,97.527432,Siso,-650,65,189,652.9,-537
+42,Morena,Lyfield,mlyfield15@unicef.org,Genderqueer,18.18.255.37,true,7/15/2021,,5.8228231,125.2060456,Glan,-973,466,674,-768.42,-375
+43,Deirdre,Western,dwestern16@sphinn.com,Genderqueer,37.35.151.205,false,11/19/2020,,61.5656107,25.1814985,Kuhmoinen,-599,79,306,458.78,88
+44,Immanuel,Reynard,ireynard17@tripadvisor.com,Bigender,222.214.91.55,false,7/17/2021,Hordaland,60.552049,5.3129931,Isdalstø,-718,956,-47,-416.69,-302
+45,Vidovik,McLeish,vmcleish18@usgs.gov,Agender,19.209.102.79,true,4/15/2021,,49.2121445,37.2665006,Izyum,-484,922,-380,685.43,-984
+46,Daphne,Duckering,dduckering19@nhs.uk,Genderqueer,76.79.126.124,true,9/4/2021,,-8.370899,123.7014716,Nilanapo,-432,232,756,-688.11,341
+47,Siobhan,Batting,sbatting1a@discuz.net,Non-binary,125.135.7.18,false,11/13/2020,,-6.3621916,106.8502879,Tugu,-258,896,656,777.68,-289
+48,Caterina,Bradane,cbradane1b@prnewswire.com,Genderfluid,143.186.120.63,true,4/24/2021,Stockholm,62.4729446,17.4155753,Nacka,-792,302,402,-323.55,978
+49,Jeromy,Battista,jbattista1c@forbes.com,Non-binary,188.217.100.167,false,12/30/2020,,-40.3313422,-72.9485366,Río Bueno,-560,686,730,81.29,42
+50,Tobi,McLarnon,tmclarnon1d@jugem.jp,Genderfluid,226.211.169.70,true,5/24/2021,,9.141067,-12.664461,Kukuna,-568,143,504,279.06,-594
+51,Millicent,Stachini,mstachini1e@google.it,Bigender,14.135.35.76,true,9/17/2021,,17.8846183,-77.5950623,Bull Savanna,-923,129,6,125.25,
+52,Cassandry,Glasser,cglasser1f@networkadvertising.org,Genderqueer,206.211.17.141,true,1/17/2021,Maryland,39.0327543,-76.5517132,Annapolis,-267,745,-859,-391.49,-529
+53,Sonny,Lathleiffure,slathleiffure1g@ibm.com,Polygender,40.221.113.232,true,1/17/2021,Pennsylvania,41.2505888,-75.8520879,Wilkes Barre,-615,377,842,-113.45,-87
+54,Rois,Cannam,rcannam1h@patch.com,Bigender,41.189.134.30,true,7/24/2021,,-11.730898,-75.5464873,Acolla,-996,996,-367,498.17,-822
+55,Ulrich,Dakin,udakin1i@google.ru,Bigender,123.32.212.166,false,7/29/2021,,41.805699,123.431472,Sanyang,-74,454,-765,539.04,-885
+56,Paule,Asee,pasee1j@mozilla.org,Bigender,125.34.179.178,false,10/1/2021,Porto,41.3442557,-8.4002579,São Tomé,-405,538,-273,-26.61,583
+57,Belicia,Rawes,brawes1k@weather.com,Polygender,239.189.40.32,false,10/2/2021,Lorraine,49.1606317,6.9179709,Forbach,-672,87,178,776.15,804
+58,Mycah,Devonside,mdevonside1l@globo.com,Non-binary,172.147.38.199,false,5/26/2021,,14.9192781,100.2905604,Bang Racham,-457,455,-291,98.82,392
+59,Aryn,Jefferys,ajefferys1m@dot.gov,Non-binary,54.247.236.68,false,10/11/2021,Västmanland,59.5194054,15.9767049,Köping,-661,549,-14,881.54,978
+60,Ward,Middlemass,wmiddlemass1n@senate.gov,Male,108.213.87.161,true,2/23/2021,,10.1819305,-67.5082709,Santa Cruz,-867,937,-505,-495.59,-222
+61,Cordy,Wisker,cwisker1o@uol.com.br,Agender,204.190.163.254,false,4/25/2021,,-7.4066528,108.7719766,Cipari,-792,462,-680,-824.0,296
+62,Bartholemy,Jory,bjory1p@istockphoto.com,Female,212.11.72.120,true,6/15/2021,Leiria,39.7034754,-8.7316491,Arrabal,-136,808,-462,376.91,6
+63,Chelsea,Cecil,ccecil1q@topsy.com,Non-binary,174.38.223.140,true,9/9/2021,,14.6587588,120.944359,Bagong Barrio,-718,673,-393,-244.41,-102
+64,Ambur,Dorricott,adorricott1r@who.int,Polygender,196.250.198.19,true,10/13/2021,,24.192468,115.665617,Yetang,-292,10,428,-503.18,669
+65,Brocky,Feary,bfeary1s@opera.com,Genderqueer,167.132.50.243,false,4/17/2021,,-7.3081653,112.7772408,Semampirbarat,-305,243,386,-152.08,574
+66,Fae,Cuttell,fcuttell1t@nifty.com,Bigender,87.12.35.135,true,7/14/2021,,51.1672774,18.0050053,Trzcinica,-213,149,-84,419.16,-564
+67,Genni,Skeates,gskeates1u@dot.gov,Female,45.42.198.70,false,11/30/2020,,24.324999,103.78883,Xiaofayi,-223,815,406,-368.17,214
+68,Carlita,Yardley,cyardley1v@vistaprint.com,Agender,182.28.122.60,false,10/26/2021,,15.3833332,120.8000031,Cama Juan,-590,573,404,-284.67,929
+69,Lynea,Wohler,lwohler1w@arizona.edu,Bigender,124.157.97.100,true,8/13/2021,,28.8837687,64.3855697,Dālbandīn,-828,27,338,826.3,693
+70,Kirbee,Blazynski,kblazynski1x@unicef.org,Genderfluid,187.244.217.165,true,2/25/2021,Provincie Zuid-Holland,52.0726169,4.3505874,Voorburg,-377,485,141,232.76,839
+71,Reed,Beetlestone,rbeetlestone1y@miitbeian.gov.cn,Agender,128.34.64.209,true,10/8/2021,,3.14405,101.69676,Guandi,-786,891,403,399.29,-28
+72,Judye,Greswell,jgreswell1z@pbs.org,Female,84.250.65.194,true,5/21/2021,,50.6787,18.2137899,Ozimek,-293,790,-769,-180.37,-914
+73,Buffy,Rabl,brabl20@drupal.org,Genderqueer,148.253.235.39,true,3/17/2021,,49.9106966,16.9101736,Postřelmov,-541,800,719,-434.81,
+74,Ody,Nann,onann21@sfgate.com,Male,31.34.17.121,false,6/9/2021,,-6.2278972,106.7045995,Panjir,-978,9,-410,-806.74,-277
+75,Dominga,Leehane,dleehane22@timesonline.co.uk,Bigender,40.35.163.118,true,6/12/2021,,23.076233,113.86913,Chashan,-177,80,-645,888.47,640
+76,Carmine,Myott,cmyott23@ucoz.ru,Non-binary,250.148.94.144,false,6/19/2021,,34.151624,109.323479,Lantian,-414,667,547,-180.09,524
+77,Marielle,Schaben,mschaben24@youtube.com,Non-binary,173.113.228.118,false,3/14/2021,,4.6064435,-61.1053691,Santa Elena de Uairén,-350,785,941,-221.08,-833
+78,Xena,Kiernan,xkiernan25@themeforest.net,Genderfluid,110.66.146.245,false,6/21/2021,,37.005017,114.683863,Nanhe,-761,364,551,453.43,-260
+79,Allie,Winborn,awinborn26@wp.com,Genderfluid,221.149.58.145,true,12/31/2020,,28.260189,117.069202,Yingtan,-301,256,-377,361.85,-225
+80,Linnie,Novotna,lnovotna27@homestead.com,Female,170.36.158.52,true,11/8/2020,,14.6790319,100.6985155,Saraburi,-652,348,485,833.02,
+81,Luke,Keigher,lkeigher28@google.fr,Genderqueer,94.14.107.27,true,4/6/2021,,30.368126,102.814531,Baoxing,-95,675,399,737.58,-126
+82,Sydney,Culvey,sculvey29@booking.com,Agender,86.181.48.76,false,9/25/2021,,-7.7403739,110.0330554,Purworejo,-812,195,-165,477.28,-556
+83,Rodrique,Croci,rcroci2a@free.fr,Non-binary,225.20.147.22,true,7/19/2021,,-6.2318126,106.8396166,Kostarea Satu,-715,932,-383,-298.13,-253
+84,Daile,Kobisch,dkobisch2b@cdc.gov,Agender,52.210.59.80,false,4/20/2021,,13.9314921,122.0915082,Panikihan,-915,606,345,-329.87,-884
+85,Norene,Danilchenko,ndanilchenko2c@intel.com,Female,147.24.145.142,true,3/20/2021,,36.854929,114.503339,Shahe,-786,773,-126,-67.13,-238
+86,Marget,Koubu,mkoubu2d@wikipedia.org,Bigender,237.95.152.176,true,11/14/2020,,14.5072887,121.0064151,Maria,-535,140,222,831.09,529
+87,Anna,Priscott,apriscott2e@dion.ne.jp,Genderqueer,222.24.37.204,true,2/20/2021,,55.1795454,61.3396043,Otradnyy,-653,836,944,-681.46,650
+88,Yule,Pleager,ypleager2f@wsj.com,Male,214.74.108.45,true,7/27/2021,Évora,38.7433547,-8.0759339,São Pedro Gafanhoeira,-437,105,-120,357.91,
+89,Jonas,Rodman,jrodman2g@apple.com,Female,143.97.58.73,true,3/22/2021,,47.59585,126.100213,Baiquan,-879,889,587,259.0,-466
+90,Leyla,Thompson,lthompson2h@chron.com,Genderqueer,90.198.195.152,true,12/23/2020,,28.274601,88.520031,Gangba,-551,479,-970,120.13,920
+91,Joice,Cotelard,jcotelard2i@acquirethisname.com,Bigender,27.48.187.168,true,9/22/2021,,31.53537,34.97192,Bayt Maqdūm,-805,759,-549,-693.26,425
+92,Lawry,Croasdale,lcroasdale2j@php.net,Non-binary,86.134.167.46,false,11/20/2020,,-17.0127475,48.571263,Andilamena,-610,348,-353,69.95,
+93,Rafi,Petticrow,rpetticrow2k@cbslocal.com,Agender,83.9.207.76,false,9/25/2021,,25.1962025,-76.2406701,Governor’s Harbour,-154,575,663,-714.16,-519
+94,Willy,Mebes,wmebes2l@fda.gov,Agender,56.39.247.192,false,1/24/2021,,12.3434106,-86.6762176,La Paz Centro,-859,511,312,-821.76,70
+95,Yolane,Dally,ydally2m@sina.com.cn,Male,42.29.237.168,false,12/28/2020,,-8.1462,115.0596,Banjar Dharmasemedi,-797,592,-957,730.49,
+96,Hannah,Jaquet,hjaquet2n@google.ca,Male,143.50.244.184,false,12/14/2020,,40.1145846,44.2706023,Griboyedov,-388,414,-742,-676.54,724
+97,Justis,Vanini,jvanini2o@hc360.com,Agender,144.163.202.118,false,12/6/2020,,32.990664,112.528308,Nanyang,-400,777,-232,-641.45,677
+98,Gretel,Jolin,gjolin2p@npr.org,Genderfluid,64.105.14.216,false,1/31/2021,,60.5686508,26.4733066,Elimäki,-447,515,-207,500.55,42
+99,Leoine,Ferrieroi,lferrieroi2q@ovh.net,Genderfluid,220.204.143.11,false,1/1/2021,,32.48998,35.40163,Faqqū‘ah,-962,523,596,984.57,-353
+100,Binky,Cordaroy,bcordaroy2r@livejournal.com,Female,77.7.76.41,true,3/17/2021,Poitou-Charentes,46.3194856,-0.4546217,Niort,-776,368,38,-363.57,-848
