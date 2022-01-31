@@ -1,4 +1,4 @@
-id,first_name,last_name,email,gender,ip_address,graduate_degree,date_time,state,lat,lon,city,negative,positive,int,decimal,int_with_null
+id,first_name,last_name,email,gender,ip_address,graduate_degree,date_time,state,latitude,longitude,city,negative,positive,int,decimal,int_with_null
 1,Ardelle,Flatte,aflatte0@hexun.com,Agender,45.137.110.14,true,9/24/2021,,23.276324,113.57676,Zhenlong,-156,356,-457,-993.1,-964
 2,Mayer,Bythway,mbythway1@e-recht24.de,Agender,28.11.210.159,false,11/2/2021,,39.4305733,21.6627892,Mouzáki,-334,750,419,49.22,-932
 3,Bourke,Marvell,bmarvell2@smh.com.au,Polygender,160.192.28.244,true,6/8/2021,,-6.3623,105.9128,Sorodot,-109,339,893,-260.37,-590
